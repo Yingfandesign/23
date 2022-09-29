@@ -1,6 +1,6 @@
 import "./styles.css";
 
-document.getElementById("arr").innerHTML = `
+document.getElementById("afff").innerHTML = `
 <h1>Hello Vanilla!</h1>
 <div>
   We use the same configuration as Parcel to bundle this sandbox, you can find more
